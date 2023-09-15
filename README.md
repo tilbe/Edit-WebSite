@@ -17,3 +17,9 @@
 <p> Image Processing: Various operations such as rotating, flipping, and applying different filters to the image have been performed to make alterations to the image.
 
 Canvas: The edited image, processed using the canvas element, is drawn onto this element to provide a preview and enable the download operation to take place.  </p>
+
+
+<h3>🎥Video</h3>
+
+Uploading output(compress-video-online.com) (1).mp4…
+
