@@ -22,7 +22,9 @@ Canvas: The edited image, processed using the canvas element, is drawn onto this
 <h3>🎥Video</h3>
 
 
-https://github.com/tilbe/Edit-WebSite/assets/125744380/2ffe1ee7-f5fb-4da1-bfed-2247d0710d44
+https://github.com/tilbe/Edit-WebSite/assets/125744380/db49cbb1-19b1-4cc8-b0e3-5e5b1c763d7b
+
+
 
 
 
