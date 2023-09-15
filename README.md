@@ -21,5 +21,8 @@ Canvas: The edited image, processed using the canvas element, is drawn onto this
 
 <h3>🎥Video</h3>
 
-Uploading output(compress-video-online.com) (1).mp4…
+
+https://github.com/tilbe/Edit-WebSite/assets/125744380/f8fbd8e7-1571-4dba-b6cd-607ade5e18c2
+
+
 
